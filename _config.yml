@@ -229,6 +229,7 @@ paginate: 30
 paginate_path: /blog/page-:num/
 permalink: /blog/:title/
 plugins:
+  - jekyll-github-metadata
   - jekyll-redirect-from
   - jekyll-sitemap
 profile: true

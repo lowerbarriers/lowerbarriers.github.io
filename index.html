@@ -56,7 +56,7 @@ title: "Home"
 <section class="layout--stripe">
   <div class="layout--stripe--inner">
     {% include atoms/heading.html
-      children="Elevator pitch"
+      children="Lower Barriers for all"
       classes="text-align--center"
       level="2"
     %}
@@ -66,19 +66,92 @@ title: "Home"
     <div class="display--flex layout--row justify-content--center">
       <aside class="display--flex flex-direction--column justify-content--center">
         <p>
-          The headline and subtitle were meant to grab attention and get the visitor's interest. This section gives them
-          a payoff, with a little bit of detail on what you offer and why the user should stay.
+          We're a revolutionary new nonprofit: just <strong>nerds who love making software</strong> to make your life easier.
+          What motivated us to form a group is the insight it gives us into what kinds of software new-on-the-scene nonprofits
+          need to thrive.
         </p>
 
         <p>
-          Keep paragraphs short and breezy. There's plenty of site left to give details, prove your worth, and get your
-          visitor to buy what you're selling.
+          You can use our starter kits to do things in the public interest, like start a business, run for office, make your
+          own nonprofit or club, or anything else under the sun. <a href="{% link collections/pages/contact.html %}">Please
+          let us know what cool stuff you're doing</a>!
         </p>
 
-        <p>
+        <p class="text-align--center">
           <a class="button cta" href="{% link collections/pages/about.html %}">More about us</a>
         </p>
       </aside>
     </div>
+  </div>
+</section>
+
+<section class="layout--stripe background-color--grey-light text-align--center">
+  <div class="layout--stripe--inner">
+    {% include atoms/heading.html
+      children="Code, ready to go"
+      classes="text-align--center"
+      level="2"
+    %}
+
+    {% include atoms/spacer.html size="2" %}
+
+    <p>
+      All the repositories we use can be found on <a href="https://github.com/lowerbarriers">our GitHub organization page</a>.
+      Below are some of our favorites:
+    </p>
+
+    {% include atoms/spacer.html size="2" %}
+
+    <ul class="list-style--none layout--multiple--horizontal">
+      {% for repo in site.github.public_repositories %}
+        {% if repo.fork != true %}
+          <li class="card js--child--link display--flex flex-direction--column">
+            <div class="card--text padding-horizontal--4 padding-vertical--4">
+              <h3 class="card--title font-size--1p25em"><a href="{{ repo.url }}">{{ repo.name }}</a></h3>
+              <strong class="card--subtitle display--block font-size--p875em font-weight--100 font-style--italic">{{ repo.full_name }}</strong>
+              <p class="card--description font-size--p75em">{{ repo.description }}</p>
+            </div>
+
+            {% include atoms/image.html
+              src="1200x630/meta-image--code.jpg"
+              alt=""
+              classes="figure--card--image order--neg1 box-shadow--lifted-edges"
+            %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="layout--stripe background-color--white text-align--center">
+  <div class="layout--stripe--inner">
+    {% include atoms/heading.html
+      children="Sunlight?"
+      classes="text-align--center"
+      level="2"
+    %}
+
+    <p>
+      Every meeting is open to the public. Every last cent is accounted for. Our bylaws and all our operating documentation
+      is not only publicly-available, but licensed for you to reuse and remix.
+    </p>
+
+    {% include atoms/spacer.html size="2" %}
+
+    <ul class="list-style--none display--flex flex-direction--row layout--row justify-content--space-between">
+      <li class="flex--1">
+        <a class="button" href="{% link collections/pages/by-laws.md %}">Bylaws</a>
+      </li>
+      <li class="flex--1">
+        <a class="button" href="{% link collections/pages/financials.html %}">Financials</a>
+      </li>
+      <li class="flex--1">
+        <a class="button" href="{% link collections/pages/events.html %}">Meetings</a>
+      </li>
+      <li class="flex--1">
+        <a class="button" href="{% link collections/pages/site-map.html %}">Full sitemap</a>
+      </li>
+    </ul>
   </div>
 </section>
