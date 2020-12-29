@@ -107,7 +107,7 @@ title: "Home"
         {% if repo.fork != true %}
           <li class="card js--child--link display--flex flex-direction--column">
             <div class="card--text padding-horizontal--4 padding-vertical--4">
-              <h3 class="card--title font-size--1p25em"><a href="{{ repo.url }}">{{ repo.name }}</a></h3>
+              <h3 class="card--title font-size--1p25em"><a href="{{ repo.html_url }}">{{ repo.name }}</a></h3>
               <strong class="card--subtitle display--block font-size--p875em font-weight--100 font-style--italic">{{ repo.full_name }}</strong>
               <p class="card--description font-size--p75em">{{ repo.description }}</p>
             </div>
