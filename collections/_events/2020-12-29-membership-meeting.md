@@ -63,15 +63,15 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
+  1. Call to order (7:06 PM)
   2. Roll call
   3. Call for member comments
-  4. Approve previous meeting agenda
+  4. Approve previous meeting agenda (Brad moved, Hillary seconded, unanimous voice vote)
   5. Regular agenda:
-     * (Reg agenda item here)
+     * (none)
   6. Old business
-     * (Old business item here)
+     * (none)
   7. New business
-     * (New business item here)
+     * Brad showed site and project progress
   8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Adjourn (7:24 PM)
