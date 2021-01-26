@@ -4,6 +4,7 @@
 source 'https://rubygems.org'
 
 gem 'github-pages', '> 103', group: :jekyll_plugins
+gem 'tzinfo-data'
 
 group :jekyll_plugins do
   gem 'jekyll-octicons'
