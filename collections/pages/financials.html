@@ -35,6 +35,32 @@ title: "Financials"
       level="2"
     %}
 
-    <p>Check it out.</p>
+    <p>
+      The following table is derived from out ledger's journal data source, and represents every transaction in the 
+      history of the organization.
+    </p>
+
+    <table>
+      <thead>
+        <th>Date</th>
+        <th>Amount</th>
+        <th>Type</th>
+        <th>Description</th>
+        <th>Identifier</th>
+        <th>Notes</th>
+      </thead>
+      <tbody>
+        {% for entry in site.data.financials.journal %}
+          <tr>
+            <td>{{ entry.date | date_to_string: "ordinal", "US" }}</td>
+            <td>$ {{ entry.amount }} (USD)</td>
+            <td>{{ entry.type }}</td>
+            <td>{{ entry.description }}</td>
+            <td><pre>{{ entry.identifier }}</pre></td>
+            <td>{{ entry.notes }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
 </section>

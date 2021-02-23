@@ -58,26 +58,4 @@ gosh-darn pert-near everything else that's possible to vote on.
 
 ### Minutes
 
-**These minutes have not yet been approved by the membership at the following meeting after a review. This bolded section
-will be updated following the subsequent meeting to indicate approval status.**
-
-_Lower Barriers membership meeting_
-
-**Board present**: Brad Czerniak, Hillary Lewandowski, Randall Thomas
-
-**Board absent**: (none)
-
-**Members/guest attending**: (none)
-
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Regular agenda:
-     * (Reg agenda item here)
-  6. Old business
-     * (Old business item here)
-  7. New business
-     * (New business item here)
-  8. Call for member comments
-  9. Adjourn (8:00 PM)
+This meeting was converted to an informal study session of the draft bylaws, on account of a lack of quorum.

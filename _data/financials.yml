@@ -1,0 +1,21 @@
+####
+## @file
+## A running ledger of all organization transactions.
+##
+## Each item in the journal has:
+##   * date
+##   * amount (positive for credits, negative for debits)
+##   * type (Gross receipts,Purchases,Expenses,Travel Transportation Entertainment and Gift Expenses,Assets,Employment Taxes)
+##   * description
+##   * identifier [optional]
+##   * notes [optional]
+##
+## @see _collections/pages/financials.html
+####
+journal:
+  - date: 2021-02-23 17:45:00
+    amount: 14.26
+    type: "Gross receipts"
+    description: "Brad Czerniak 2021 membership dues"
+    identifier: 2DX068894Y3043021
+    notes: "PayPal transaction. Identifier is transaction ID. Was $15 less PayPal fees."

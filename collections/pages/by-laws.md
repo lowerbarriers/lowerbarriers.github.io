@@ -175,7 +175,7 @@ Members of the Board of Directors shall not receive any compensation for their s
 ### Section 7. Parliamentary Procedure
 
 Any question concerning parliamentary procedure at meetings shall be determined by the Presiding Officer by reference to 
-Robert’s Rules of Order (Fourth Edition, 1915).
+[Robert’s Rules of Order (Fourth Edition, 1915)](https://archive.org/details/Robertsrulesofor00robe_201303/page/n3/mode/2up).
 
 ### Section 8. Removal
 
