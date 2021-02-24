@@ -128,7 +128,7 @@ sending out update messages, and keeping faithful financial records.
 
 ### Section 2. Number, Tenure, Requirements, and Qualifications
 
-The number of Directors shall be fixed to consist of three officers: the Presiding officer, the Treasurer, and the Scribe.
+The number of Directors shall be fixed to consist of three officers: the Presiding officer, the Financier, and the Scribe.
 
 The members of the Board of Directors shall, upon election, immediately enter upon the performance of their duties and 
 shall continue in office until their successors shall be duly elected and qualified. All members of the Board of Directors 
@@ -146,7 +146,7 @@ Each member of the Board of Directors shall attend at least nine (9) monthly mee
 Every year the January monthly meeting of the membership is the last meeting presided over by the previous year's board, 
 and among the outgoing board's final solemn duties is to conduct the free, fair, and peaceful election of their replacements.
 
-Each board position -- Presiding Officer, Treasurer, Scribe -- is elected separately and for their respective position 
+Each board position -- Presiding Officer, Financier, Scribe -- is elected separately and for their respective position 
 (that is, members are elected to specific positions rather than to the Board at large), in order starting with the Presiding 
 Officer.
 
@@ -186,7 +186,7 @@ same double-jeopardy protection as regular member.
 
 ## Article 6. Officers
 
-The officers of the Board of Directors as enumerated in Article 5 Section 2 shall be the Presiding Officer, Treasurer, 
+The officers of the Board of Directors as enumerated in Article 5 Section 2 shall be the Presiding Officer, Financier, 
 and Scribe.
 
 ### Section 1. Presiding Officer
@@ -199,9 +199,9 @@ of the membership. The Presiding Officer shall have the following duties:
   * They shall preside over all meetings and ensure order and parliamentary compliance
   * They shall be responsible for special iniatives, committees, and reports as proposed and approved by the membership
 
-### Section 2. Treasurer
+### Section 2. Financier
 
-The Treasurer duties shall be:
+The Financier duties shall be:
 
   * They shall submit to the membership a brief report of changes to the financial posture of the Corporation at each 
     monthly meeting
