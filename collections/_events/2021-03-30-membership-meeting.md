@@ -60,15 +60,19 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
+  1. Call to order (7:03 PM by Presiding Office Randall Thomas)
+  2. Roll call, reflected above at 7:03 PM
+  3. Call for member comments: (none, 7:03 PM)
+  4. Previous meeting minutes: were summarized by Scribe Brad Czerniak. Financier Hillary Lewandowski moved to approve, Randall seconded, and the minutes were approved unanimously by voice vote at 7:05 PM
   5. Regular agenda:
-     * (Reg agenda item here)
-  6. Old business
-     * (Old business item here)
+     * Brad summarized the milestones for the lowerbarriers GitHub org
+     * Brad summarized the milestones for the finished-starter project
+  6. Old business: (none)
   7. New business
-     * (New business item here)
+     * Randall mentioned graphic design and promotional materials, such as business cards, as a potential avenue for spending org funds for a useful purpose
+     * Hillary asked about getting PayPal access
+     * Brad noted that he would add the financial report to the April and subsequent agendas
   8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Adjourn (7:19 PM, RT moved and HL seconded)
+
+Faithfully submitted by recording Scribe Brad Czerniak. Notes taken concurrent with meeting, then transcribed to this format at 9:00 AM on Tuesday, April 6, 2021.
