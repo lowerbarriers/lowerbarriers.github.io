@@ -37,15 +37,16 @@ The monthly membership meeting of Lower Barriers.
   1. Call to order
   2. Roll call
   3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Regular agenda:
+  4. Previous meeting agenda
+  5. Financial report
+  6. Regular agenda:
     * (Regular agenda item here)
-  6. Old business
-    * (Old business here)
-  7. New business
+  7. Old business
+    * Business cards and physical promotions
+  8. New business
     * (New business here)
-  8. Call for member comments
-  9. Adjourn
+  9. Call for member comments
+  10. Adjourn
 
 ### Minutes
 
