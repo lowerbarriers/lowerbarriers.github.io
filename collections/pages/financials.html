@@ -1,6 +1,6 @@
 ---
 authors:
-  - brad-czerniak
+  - hillary-lewandowski
 #categories: ["one", "two"]
 #date: 2020-03-03 02:02:02
 #hero_classes: "background-color--main-dark color--white"
@@ -36,18 +36,20 @@ title: "Financials"
     %}
 
     <p>
-      The following table is derived from out ledger's journal data source, and represents every transaction in the 
+      The following table is derived from our ledger's journal data source, and represents every transaction in the
       history of the organization.
     </p>
 
     <table>
       <thead>
-        <th>Date</th>
-        <th>Amount</th>
-        <th>Type</th>
-        <th>Description</th>
-        <th>Identifier</th>
-        <th>Notes</th>
+        <tr>
+          <th>Date</th>
+          <th>Amount</th>
+          <th>Type</th>
+          <th>Description</th>
+          <th>Identifier</th>
+          <th>Notes</th>
+        </tr>
       </thead>
       <tbody>
         {% for entry in site.data.financials.journal %}
@@ -62,5 +64,185 @@ title: "Financials"
         {% endfor %}
       </tbody>
     </table>
+  </div>
+</section>
+
+<section class="layout--stripe background-color--grey-light">
+  <div class="layout--stripe--inner">
+    {% include atoms/heading.html
+    children="5-year plan"
+    classes=""
+    level="2"
+    %}
+
+    <p>
+      <strong>Note: This section has not yet been approved by the membership. This paragraph will disappear once
+        approved.</strong>
+    </p>
+
+    <p>
+      The following plan outlines our modest aspirations for financing the organization over the course of many years,
+      and as our <a href="{% link collections/pages/by-laws.md %}">Bylaws</a> attest, we are focusing on
+      a lean operation that does more with less.
+    </p>
+
+    <h3><strong>A1</strong> Gifts, grants, and contributions received (do not include unusual grants)</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Line item</th>
+          <th>FY2021</th>
+          <th>FY2022</th>
+          <th>FY2023</th>
+          <th>FY2024</th>
+          <th>FY2025</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>[Suggested] Membership dues</td>
+          <td>$42.78</td>
+          <td>$142.60</td>
+          <td>$1,426.00</td>
+          <td>$2,852.00</td>
+          <td>$5,000.00</td>
+        </tr>
+
+        <tr>
+          <td>Donations (one-time and recurring)</td>
+          <td>$0</td>
+          <td>$100</td>
+          <td>$500</td>
+          <td>$1,000</td>
+          <td>$2,000</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$42.78</th>
+          <th>$242.60</th>
+          <th>$1,926.00</th>
+          <th>$3,852.00</th>
+          <th>$7,000</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h3><strong>A14</strong> re: Fundraising expenses</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Line item</th>
+          <th>FY2021</th>
+          <th>FY2022</th>
+          <th>FY2023</th>
+          <th>FY2024</th>
+          <th>FY2025</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Website domain name</td>
+          <td>$18.63</td>
+          <td>$18.63</td>
+          <td>$18.63</td>
+          <td>$18.63</td>
+          <td>$18.63</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$18.63</th>
+          <th>$18.63</th>
+          <th>$18.63</th>
+          <th>$18.63</th>
+          <th>$18.63</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h3><strong>A15</strong> re: Contributions, gifts, grants, and similar amounts paid out (attach an itemized list)</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Line item</th>
+          <th>FY2021</th>
+          <th>FY2022</th>
+          <th>FY2023</th>
+          <th>FY2024</th>
+          <th>FY2025</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Individual programming grants</td>
+          <td>$0</td>
+          <td>$100.00</td>
+          <td>$1,000.00</td>
+          <td>$1,000.00</td>
+          <td>$1,000.00</td>
+        </tr>
+
+        <tr>
+          <td>Open source software awards</td>
+          <td>$0</td>
+          <td>$100.00</td>
+          <td>$1,000.00</td>
+          <td>$1,000.00</td>
+          <td>$1,000.00</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$0</th>
+          <th>$200.00</th>
+          <th>$2,000.00</th>
+          <th>$2,000.00</th>
+          <th>$2,000.00</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h3><strong>A23</strong> re: Any expense not otherwise classified, such as program services (attach itemized list)</h3>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Line item</th>
+          <th>FY2021</th>
+          <th>FY2022</th>
+          <th>FY2023</th>
+          <th>FY2024</th>
+          <th>FY2025</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>None</td>
+          <td>$0</td>
+          <td>$0</td>
+          <td>$0</td>
+          <td>$0</td>
+          <td>$0</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Total</th>
+          <th>$0</th>
+          <th>$0</th>
+          <th>$0</th>
+          <th>$0</th>
+          <th>$0</th>
+        </tr>
+      </tfoot>
+    </table>
+
   </div>
 </section>
