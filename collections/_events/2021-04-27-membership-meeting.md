@@ -40,11 +40,10 @@ The monthly membership meeting of Lower Barriers.
   4. Previous meeting agenda
   5. Financial report
   6. Regular agenda:
-    * (Regular agenda item here)
+    * Recognition and moment of silence for Dobby
   7. Old business
     * Business cards and physical promotions
   8. New business
-    * (New business here)
   9. Call for member comments
   10. Adjourn
 
@@ -65,11 +64,12 @@ _Lower Barriers membership meeting_
   2. Roll call
   3. Call for member comments
   4. Approve previous meeting agenda
-  5. Regular agenda:
+  5. Financial report
+  6. Regular agenda:
      * (Reg agenda item here)
-  6. Old business
+  7. Old business
      * (Old business item here)
-  7. New business
+  8. New business
      * (New business item here)
-  8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Call for member comments
+  10. Adjourn (8:00 PM)
