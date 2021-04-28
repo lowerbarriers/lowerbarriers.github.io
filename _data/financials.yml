@@ -19,3 +19,9 @@ journal:
     description: "Brad Czerniak 2021 membership dues"
     identifier: 2DX068894Y3043021
     notes: "PayPal transaction. Identifier is transaction ID. Was $15 less PayPal fees."
+  - date: 2021-04-27 19:32:00
+    amount: 14.26
+    type: "Gross receipts"
+    description: "Hillary Lewandowski 2021 membership dues"
+    identifier: 91452891DS905871P
+    notes: "PayPal transaction. Identifier is transaction ID. Was $15 less PayPal fees."
