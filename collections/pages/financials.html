@@ -52,6 +52,7 @@ title: "Financials"
         </tr>
       </thead>
       <tbody>
+        {% assign total = 0 %}
         {% for entry in site.data.financials.journal %}
           <tr>
             <td>{{ entry.date | date_to_string: "ordinal", "US" }}</td>
@@ -61,8 +62,15 @@ title: "Financials"
             <td><pre>{{ entry.identifier }}</pre></td>
             <td>{{ entry.notes }}</td>
           </tr>
+          {% assign total = total | plus: entry.amount %}
         {% endfor %}
       </tbody>
+      <tfoot>
+        <tr>
+          <th><strong>Total</strong></th>
+          <th colspan="5"><strong>$ {{ total }}</strong></th>
+        </tr>
+      </tfoot>
     </table>
   </div>
 </section>
