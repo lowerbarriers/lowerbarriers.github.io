@@ -64,15 +64,13 @@ title: "Financials"
           </tr>
           {% assign total = total | plus: entry.amount %}
         {% endfor %}
-        <tr>
-          <td><strong>Total</strong></td>
-          <td><strong>$ {{ total }}</strong></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
       </tbody>
+      <tfoot>
+        <tr>
+          <th><strong>Total</strong></th>
+          <th colspan="5"><strong>$ {{ total }}</strong></th>
+        </tr>
+      </tfoot>
     </table>
   </div>
 </section>
