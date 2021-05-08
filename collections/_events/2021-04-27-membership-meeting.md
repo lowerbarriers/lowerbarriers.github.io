@@ -60,16 +60,19 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Financial report
+  1. Call to order (7:03 PM by Randall Thomas, presiding)
+  2. Roll call (7:03 PM)
+  3. Call for member comments - None (7:04 PM)
+  4. Approve previous meeting agenda - BC read, HL moved, RT seconded at 7:06 PM
+  5. Financial report - None, 7:06 PM
   6. Regular agenda:
-     * (Reg agenda item here)
+     * The members in attendance had a moment of silence for Hillary's beloved dog, Dobby
   7. Old business
-     * (Old business item here)
+     * Business cards and promo materials. Membership agreed to non-peronsal cards, made of good stock, and left the details up to Randall's judgment. BC moved, HL seconded, affirmed by unanimous voice vote at 7:12 PM
+     * Randall noted that he wanted to get more active on the blog
   8. New business
-     * (New business item here)
-  9. Call for member comments
-  10. Adjourn (8:00 PM)
+     * Brad presented a draft 5-year financial plan, promising to follow up when it becomes time to approve it
+  9. Call for member comments - None, 7:18 PM
+  10. Adjourn (RT closed proceedings at 7:18 PM)
+
+Faithfully submitted by Brad Czerniak, Scribe.
