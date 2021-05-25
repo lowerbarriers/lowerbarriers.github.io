@@ -19,13 +19,12 @@
     "purgecss": "purgecss -c .node_config/purgecss.config.js -o assets/css/pre-commit-dependency.css",
     "terser": "terser _site/assets/js/behavior.js -o assets/js/pre-commit-dependency.js"
   },
-  "dependencies": {},
   "devDependencies": {
     "browserslist": "^4.16.6",
     "dotenv": "^8.6.0",
     "dotenv-flow": "^3.2.0",
     "prettier": "^2.2.1",
-    "purgecss": "^2.1.0",
+    "purgecss": "^4.0.3",
     "terser": "^4.6.6"
   }
 }
