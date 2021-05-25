@@ -53,8 +53,7 @@ The monthly membership meeting of Lower Barriers.
 
 ### Minutes
 
-**These minutes have not yet been approved by the membership at the following meeting after a review. This bolded section
-will be updated following the subsequent meeting to indicate approval status.**
+**These minutes were approved by the membership at the following meeting.**
 
 _Lower Barriers membership meeting_
 
@@ -70,22 +69,22 @@ _Lower Barriers membership meeting_
 4. Approve previous meeting minutes — BC noted that January lacked a quorum. No minutes to approve
 5. Regular agenda:
   * BC reviewed the Bylaws as written but not yet approved. The members in attendance discussed the merits of 'Financier'
-     rather than 'Quaestor' as a fancy name for the Treasurer role. The members in attendance informally agreed to amend 
-     the not-yet-approved bylaws to use the word 'Financier' for Treasurer. Randall agreed to retain "Presiding officer" 
+     rather than 'Quaestor' as a fancy name for the Treasurer role. The members in attendance informally agreed to amend
+     the not-yet-approved bylaws to use the word 'Financier' for Treasurer. Randall agreed to retain "Presiding officer"
      rather than some other fancy title.
-  * The members in attendance **voted to adopt the Bylaws as presented**. At 7:18 PM Brad moved and Hillary seconded on 
+  * The members in attendance **voted to adopt the Bylaws as presented**. At 7:18 PM Brad moved and Hillary seconded on
     a motion to adopt the Bylaws. The motion passed unanimously, by voice vote
   * Per the newly-adopted Bylaws, the membership proceeded to its inaugural board election.
-    * First, for Presiding officer, nominations were opened. Brad moved to nominate Randall Thomas, which Randall accepted. 
-      Hillary seconded the nomination. No other nominations were brought forward, so the membership in attendance agreed 
+    * First, for Presiding officer, nominations were opened. Brad moved to nominate Randall Thomas, which Randall accepted.
+      Hillary seconded the nomination. No other nominations were brought forward, so the membership in attendance agreed
       to elect Randall by voice vote. **Randall was unanimously elected Presiding officer** at 7:20 PM
-    * Next, for Financier, nominations were opened. Brad moved to nominate Hillary Lewandowski, which Hillary accepted. 
-      Randall secondard the nomination. No other nominations were brought forward, so the membership in attendance agreed 
+    * Next, for Financier, nominations were opened. Brad moved to nominate Hillary Lewandowski, which Hillary accepted.
+      Randall secondard the nomination. No other nominations were brought forward, so the membership in attendance agreed
       to elect Hillary by voice vote. **Hillary was unanimously elected Financier** at 7:21 PM
-    * Finally, for Scribe, nominations were opened. Hillary moved to nominate Brad Czerniak, which Brad accepted. Randall 
-      secondard the nomination. No other nominations were brought forward, so the membership in attendance agreed to elect 
+    * Finally, for Scribe, nominations were opened. Hillary moved to nominate Brad Czerniak, which Brad accepted. Randall
+      secondard the nomination. No other nominations were brought forward, so the membership in attendance agreed to elect
       Brad by voice vote. **Brad was unanimously elected Scribe** at 7:23 PM
-  * Brad showed the membership in attendance the progress on the financial reporting mechanism (YAML file displayed as a 
+  * Brad showed the membership in attendance the progress on the financial reporting mechanism (YAML file displayed as a
     table on the website)
   * Per the agenda, Brad reported that there was no substantial progress on the website or its content this month
 6. Old business
