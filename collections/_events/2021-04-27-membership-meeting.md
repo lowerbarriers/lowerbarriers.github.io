@@ -68,7 +68,7 @@ _Lower Barriers membership meeting_
   6. Regular agenda:
      * The members in attendance had a moment of silence for Hillary's beloved dog, Dobby
   7. Old business
-     * Business cards and promo materials. Membership agreed to non-peronsal cards, made of good stock, and left the details up to Randall's judgment. BC moved, HL seconded, affirmed by unanimous voice vote at 7:12 PM
+     * Business cards and promo materials. Membership agreed to non-personal cards, made of good stock, and left the details up to Randall's judgment. BC moved, HL seconded, affirmed by unanimous voice vote at 7:12 PM
      * Randall noted that he wanted to get more active on the blog
   8. New business
      * Brad presented a draft 5-year financial plan, promising to follow up when it becomes time to approve it

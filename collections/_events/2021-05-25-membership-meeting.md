@@ -59,14 +59,16 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Financial report
+  1. Call to order (7:02 PM by Randall)
+  2. Roll call (7:03 PM)
+  3. Call for member comments (7:03 PM)
+  4. Approve previous meeting minutes (7:05 PM, Brad read, Hillary moved, Randall seconded)
+  5. Financial report - None, 7:06 PM
   6. Old business
-     * (Old business item here)
+     * Business cards are in holding pattern, Randall in communication with a card-making party
   7. New business
-     * (New business item here)
+     * Brad moves that we establish the calendar year as the tax year of the organization (Hillary seconded, unanimous voice vote)
+     * Randall would like to discuss bringing in new members. It sounds like we may have a guest next time!
+     * At June meeting will discuss, and perhaps form committee, around a fund-raising event
   8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Adjourn (7:18 PM, Randall)
