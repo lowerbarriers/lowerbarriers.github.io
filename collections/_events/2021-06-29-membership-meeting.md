@@ -23,7 +23,7 @@ meta:
 #published: true
 #sitemap: true
 #tags: ["three", "four"]
-title: "jUNE 2021 Membership meeting"
+title: "June 2021 Membership meeting"
 ---
 
 (As always, you can [add the Lower Barriers membership meeting to your calendar](http://bit.ly/lowerbarriers) using the link.)
