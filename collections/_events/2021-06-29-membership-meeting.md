@@ -59,14 +59,16 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Financial report
+  1. Call to order (7:02 PM by Randall)
+  2. Roll call (just us, 7:03)
+  3. Call for member comments (None, 7:03)
+  4. Approve previous meeting agenda/minutes (7:05 PM, Randall moved, Hillary seconded)
+  5. Financial report (7:05, nothing new)
   6. Old business
-     * (Old business item here)
-  7. New business
-     * (New business item here)
+     * Business cards - Randall having them forwarded to new address, should have them momentarily
+     * Fundraising event - cookout or other event, "start small", proceeds going to org
+       * On the matter of forming a select committee to throw a small fundraising event, Brad moved, Hillary seconded, and a unanimous voice vote passed for its formation
+  7. New business (7:10 PM)
+     * Brad reported that our annual reported is submitted for the year, and to his best recollection the org is valid another year
   8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Adjourn (7:13 PM by Randall)
