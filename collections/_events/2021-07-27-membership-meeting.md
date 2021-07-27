@@ -59,14 +59,14 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Financial report
+  1. Call to order (7:03 PM by Randall)
+  2. Roll call (7:03 PM, just us)
+  3. Call for member comments (None)
+  4. Approve previous meeting agenda/minutes (7:05 PM, Hillary moved, Randall seconded)
+  5. Financial report (7:05 PM, nothing to report)
   6. Old business
-     * (Old business item here)
-  7. New business
-     * (New business item here)
+     * Business cards - No updates. There may have been a shipping error
+     * Fundraising event committee - That was Brad's bad. He'll get out a group email this month like he said he'd do last month
+  7. New business (7:07 PM)
   8. Call for member comments
-  9. Adjourn (8:00 PM)
+  9. Adjourn (7:08 PM by Randall. Hillary seconded)
