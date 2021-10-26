@@ -38,12 +38,15 @@ The monthly membership meeting of Lower Barriers.
   2. Roll call
   3. Call for member comments
   4. Approve previous meeting agenda
-  5. Regular agenda:
-    * (Regular agenda item here)
+  5. Financial report
   6. Old business
-    * (Old business here)
+    * Business cards and physical promotions
+    * Fundraising event committee business
   7. New business
-    * (New business here)
+    * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
+    * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
+    * Go-or-no-go on making a 1.0.0 release of finished-starter
+    * Discuss issue of committee chairs
   8. Call for member comments
   9. Adjourn
 
@@ -64,11 +67,14 @@ _Lower Barriers membership meeting_
   2. Roll call
   3. Call for member comments
   4. Approve previous meeting agenda
-  5. Regular agenda:
-     * (Reg agenda item here)
+  5. Financial report
   6. Old business
-     * (Old business item here)
+    * Business cards and physical promotions
+    * Fundraising event committee business
   7. New business
-     * (New business item here)
+    * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
+    * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
+    * Go-or-no-go on making a 1.0.0 release of finished-starter
+    * Discuss issue of committee chairs
   8. Call for member comments
   9. Adjourn (8:00 PM)
