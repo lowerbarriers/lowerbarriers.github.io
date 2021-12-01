@@ -38,12 +38,14 @@ The monthly membership meeting of Lower Barriers.
   2. Roll call
   3. Call for member comments
   4. Approve previous meeting agenda
-  5. Regular agenda:
-    * (Regular agenda item here)
+  5. Financial report
   6. Old business
-    * (Old business here)
+      * Business cards and physical promotions
+      * Fundraising event committee business
+      * Discuss issue of committee chairs
+      * (Minor child #1) at every meeting?
   7. New business
-    * (New business here)
+      * Strategic pivot for smith-for-congress?
   8. Call for member comments
   9. Adjourn
 
@@ -54,21 +56,23 @@ will be updated following the subsequent meeting to indicate approval status.**
 
 _Lower Barriers membership meeting_
 
-**Board present**: Brad Czerniak, Hillary Lewandowski, Randall Thomas
+**Board present**: Brad Czerniak, Hillary Lewandowski, Randall Thomas, Minor child #1
 
 **Board absent**: (none)
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Regular agenda:
-     * (Reg agenda item here)
-  6. Old business
-     * (Old business item here)
-  7. New business
-     * (New business item here)
-  8. Call for member comments
-  9. Adjourn (8:00 PM)
+  1. Call to order (7:00 PM by Randall)
+  2. Roll call (7:01 PM)
+  3. Call for member comments (7:02 PM, none)
+  4. Approve previous meeting agenda/minutes (7:02 PM, Randall moved, Hillary seconded)
+  5. Financial report (7:04 PM) -- nothing to report!
+  6. Old business (7:05 PM)
+      * Business cards and physical promotions -- will re-think logistics to get cards to everyone
+      * Fundraising event committee business -- Randall volunteered to chair the committee. Brad seconded. Motion passed unanimously by voice vote. Randall is now the chair
+  7. New business (7:08 Pm)
+      * Discuss issue of committee chairs -- Hillary makes a good point that the fundraising committee is in "pre-committee status" until a chair is appointed. 
+      * Strategic pivot for smith-for-congress? We informally agreed that it was worthwhile to make progress on smith-for-congress because it's tangible and mission-oriented
+      * (Minor child #1) at every meeting?
+  8. Call for member comments (7:17 PM)
+  9. Adjourn (7:20 PM, by Randall. Seconded by Hillary)
