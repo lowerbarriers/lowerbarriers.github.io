@@ -40,20 +40,19 @@ The monthly membership meeting of Lower Barriers.
   4. Approve previous meeting agenda
   5. Financial report
   6. Old business
-    * Business cards and physical promotions
-    * Fundraising event committee business
+      * Business cards and physical promotions
+      * Fundraising event committee business
   7. New business
-    * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
-    * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
-    * Go-or-no-go on making a 1.0.0 release of finished-starter
-    * Discuss issue of committee chairs
+      * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
+      * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
+      * Go-or-no-go on making a 1.0.0 release of finished-starter
+      * Discuss issue of committee chairs
   8. Call for member comments
   9. Adjourn
 
 ### Minutes
 
-**These minutes have not yet been approved by the membership at the following meeting after a review. This bolded section
-will be updated following the subsequent meeting to indicate approval status.**
+**These minutes were approved by the membership at the November 30, 2021 meeting.**
 
 _Lower Barriers membership meeting_
 
@@ -66,15 +65,14 @@ _Lower Barriers membership meeting_
   1. Call to order (7:01 PM by Randall)
   2. Roll call (7:02 PM)
   3. Call for member comments (7:02 PM)
-  4. Approve previous meeting agenda (7:03 PM, Hillary moved, Randall seconded)
+  4. Approve previous meeting minutes (7:03 PM, Hillary moved, Randall seconded)
   5. Financial report (7:03 PM) - Nothing new to report
   6. Old business (7:04 PM)
-    * Business cards and physical promotions -- ready to go!
-    * Fundraising event committee business -- tabling the appointing of a chair until November
+      * Business cards and physical promotions -- ready to go!
+      * Fundraising event committee business -- tabling the appointing of a chair until November
   7. New business (7:07 PM)
-    * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
-    * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
-    * Go-or-no-go on making a 1.0.0 release of finished-starter (Brad moved, Hillary seconded. All in favor by voice vote)
-    * <del>Discuss issue of committee chairs</del> -- brought up earlier
+      * Review the new "big board" which is a demo of GitHub's new projects features: https://github.com/orgs/lowerbarriers/projects/2/views/1 
+      * Live code reviews of https://github.com/lowerbarriers/finished-starter/pull/39 and https://github.com/lowerbarriers/finished-starter/pull/44
+      * Go-or-no-go on making a 1.0.0 release of finished-starter (Brad moved, Hillary seconded. All in favor by voice vote)
   8. Call for member comments (7:12 PM) -- Brad brought up that there is somebody from Twitter who will do code reviews for $100/hr-ish
   9. Adjourn (7:13 PM by Randall)
