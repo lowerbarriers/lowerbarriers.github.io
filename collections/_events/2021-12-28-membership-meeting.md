@@ -38,12 +38,12 @@ The monthly membership meeting of Lower Barriers.
   2. Roll call
   3. Call for member comments
   4. Approve previous meeting agenda
-  5. Regular agenda:
-    * (Regular agenda item here)
+  5. Financial report
   6. Old business
-    * (Old business here)
+      * Fundraising event committee business
+      * smith-for-congress
   7. New business
-    * (New business here)
+      * (none)
   8. Call for member comments
   9. Adjourn
 
@@ -60,15 +60,15 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM)
-  2. Roll call
-  3. Call for member comments
-  4. Approve previous meeting agenda
-  5. Regular agenda:
-     * (Reg agenda item here)
-  6. Old business
-     * (Old business item here)
-  7. New business
-     * (New business item here)
-  8. Call for member comments
-  9. Adjourn (8:00 PM)
+  1. Call to order (7:00 PM by Randall)
+  2. Roll call (7:01 PM)
+  3. Call for member comments (7:02 PM, none)
+  4. Approve previous meeting agenda/minutes (7:02 PM, Randall moved, Hillary seconded)
+  5. Financial report (7:04 PM) -- nothing to report!
+  6. Old business (7:05 PM)
+      * Fundraising event committee business
+      * Pivoting to lowerbarriers/smith-for-congress
+  7. New business (7:08 Pm)
+      * (placeholder)
+  8. Call for member comments (7:17 PM)
+  9. Adjourn (7:20 PM, by Randall. Seconded by Hillary)
