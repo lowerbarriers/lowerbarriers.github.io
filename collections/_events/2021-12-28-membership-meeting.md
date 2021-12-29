@@ -43,7 +43,6 @@ The monthly membership meeting of Lower Barriers.
       * Fundraising event committee business
       * smith-for-congress
   7. New business
-      * (none)
   8. Call for member comments
   9. Adjourn
 
@@ -61,14 +60,14 @@ _Lower Barriers membership meeting_
 **Members/guest attending**: (none)
 
   1. Call to order (7:00 PM by Randall)
-  2. Roll call (7:01 PM)
-  3. Call for member comments (7:02 PM, none)
+  2. Roll call (7:00 PM)
+  3. Call for member comments (7:00 PM, none)
   4. Approve previous meeting agenda/minutes (7:02 PM, Randall moved, Hillary seconded)
-  5. Financial report (7:04 PM) -- nothing to report!
-  6. Old business (7:05 PM)
+  5. Financial report (7:03 PM) -- nothing to report!
+  6. Old business (7:03 PM)
       * Fundraising event committee business
       * Pivoting to lowerbarriers/smith-for-congress
-  7. New business (7:08 Pm)
-      * (placeholder)
-  8. Call for member comments (7:17 PM)
-  9. Adjourn (7:20 PM, by Randall. Seconded by Hillary)
+  7. New business (7:04 PM)
+      * We discussed a potential goal for how much to raise via the fundraising committee
+  9. Call for member comments (7:08 PM)
+  10. Adjourn (7:09 PM, by Randall. Seconded by Hillary)
