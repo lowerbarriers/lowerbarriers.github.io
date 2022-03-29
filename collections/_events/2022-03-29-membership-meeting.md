@@ -63,6 +63,8 @@ _Lower Barriers membership meeting_
   4. Approve previous meeting agenda (7:xx PM, x moved, x seconded)
   5. Financial report (7:xx PM, nothing new to report)
   6. Old business
-  7. New business (7:xx PM)
-  8. Call for member comments (7:xx PM)
-  9. Adjourn (7:xx PM. Randall called)
+    * Fundraising event committee business
+  8. New business (7:xx PM)
+    * Should we divvy up projects?
+  10. Call for member comments (7:xx PM)
+  11. Adjourn (7:xx PM. Randall called)
