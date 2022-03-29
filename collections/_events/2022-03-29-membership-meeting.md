@@ -60,13 +60,16 @@ _Lower Barriers membership meeting_
 **Members/guest attending**: (none)
 
   1. Call to order (7:00 PM by Randall)
-  2. Roll call: Just us (7:xx PM)
-  3. Call for member comments: None (7:xx PM)
-  4. Approve previous meeting agenda (7:xx PM, x moved, x seconded)
-  5. Financial report (7:xx PM, nothing new to report)
-  6. Old business
-      * Fundraising event committee business
-  8. New business (7:xx PM)
-      * Should we divvy up projects?
-  10. Call for member comments (7:xx PM)
-  11. Adjourn (7:xx PM. Randall called)
+  2. Roll call: Just us (7:00 PM)
+  3. Call for member comments: None (7:01 PM)
+  4. Approve previous meeting agenda (7:02 PM, Hillary moved, Randall seconded)
+  5. Financial report (7:03 PM, nothing new to report)
+      * Current Paypal balance at $28.52
+  7. Old business (7:04 PM)
+      * Fundraising event committee business: Randall reiterated his commitment to being the chair
+  8. New business (7:06 PM)
+      * Should we divvy up projects?: Randall volunteered and Brad voluntold, for Randall to own finished-starter. Brad will retain smith-for-congress
+  10. Call for member comments (7:12 PM): 
+      * Randall asked about finished-starter's lifecycle and maintenance.
+      * Randall asked an excellent question about how to merge code changes into the repo.
+  12. Adjourn (7:14 PM. Randall called, Hillary seconded)
