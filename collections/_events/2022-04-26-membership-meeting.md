@@ -40,9 +40,10 @@ The monthly membership meeting of Lower Barriers.
   4. Previous meeting agenda
   5. Financial report
   6. Old business
-  7. New business
-  9. Call for member comments
-  10. Adjourn
+      * Fundraising event committee business
+  8. New business
+  10. Call for member comments
+  11. Adjourn
 
 ### Minutes
 
@@ -58,11 +59,12 @@ _Lower Barriers membership meeting_
 **Members/guest attending**: (none)
 
   1. Call to order (7:00 PM by Randall)
-  2. Roll call: Just us (7:xx PM)
-  3. Call for member comments: None (7:xx PM)
-  4. Approve previous meeting agenda (7:xx PM, x moved, x seconded)
-  5. Financial report (7:xx PM, nothing new to report)
-  6. Old business
-  7. New business (7:xx PM)
-  8. Call for member comments (7:xx PM)
-  9. Adjourn (7:xx PM. Randall called)
+  2. Roll call: Just us (7:00 PM)
+  3. Call for member comments: None (7:00 PM)
+  4. Approve previous meeting agenda (7:00 PM, moved, seconded)
+  5. Financial report (7:00 PM, nothing new to report)
+  7. Old business (7:00 PM)
+      * Fundraising event committee business:
+  8. New business (7:00 PM)
+  10. Call for member comments: None (7:00 PM)
+  12. Adjourn (7:00 PM. by Randall)
