@@ -56,14 +56,16 @@ _Lower Barriers membership meeting_
 
 **Board absent**: (none)
 
-**Members/guest attending**: (none)
+**Members/guest attending**: Greg Lewandowski
 
   1. Call to order (7:00 PM by Randall)
-  2. Roll call: Just us (7:xx PM)
-  3. Call for member comments: None (7:xx PM)
-  4. Approve previous meeting agenda (7:xx PM, x moved, x seconded)
-  5. Financial report (7:xx PM, nothing new to report)
+  2. Roll call: Just us (7:01 PM)
+  3. Call for member comments: None (7:01 PM)
+  4. Approve previous meeting agenda (7:02 PM, Hillary moved, Randall seconded)
+  5. Financial report (7:03 PM, nothing new to report)
   6. Old business
-  7. New business (7:xx PM)
-  8. Call for member comments (7:xx PM)
-  9. Adjourn (7:xx PM. Randall called)
+      * Fundraising committee -- nothing to report (7:04 PM)
+  8. New business (7:04 PM)
+      * Brad reported that he got the email to do the annual postcard (7:05 PM)
+  10. Call for member comments (7:05 PM)
+  11. Adjourn (7:05 PM. Randall called)
