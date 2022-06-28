@@ -40,7 +40,8 @@ The monthly membership meeting of Lower Barriers.
   4. Previous meeting agenda
   5. Financial report
   6. Old business
-  7. New business
+      * Fundraising event committee business
+  8. New business
   9. Call for member comments
   10. Adjourn
 
