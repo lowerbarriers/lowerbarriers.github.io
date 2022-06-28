@@ -47,8 +47,7 @@ The monthly membership meeting of Lower Barriers.
 
 ### Minutes
 
-**These minutes have not yet been approved by the membership at the following meeting after a review. This bolded section
-will be updated following the subsequent meeting to indicate approval status.**
+**These minutes have been approved by the membership at the June 2022 meeting.**
 
 _Lower Barriers membership meeting_
 
