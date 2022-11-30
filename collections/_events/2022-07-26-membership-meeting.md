@@ -48,8 +48,7 @@ The monthly membership meeting of Lower Barriers.
 
 ### Minutes
 
-**These minutes have not yet been approved by the membership at the following meeting after a review. This bolded section
-will be updated following the subsequent meeting to indicate approval status.**
+**These minutes were approved at the November 2022 meeting.**
 
 _Lower Barriers membership meeting_
 
@@ -62,12 +61,12 @@ _Lower Barriers membership meeting_
   1. Call to order (7:00 PM by Randall)
   2. Roll call: Just us (7:00 PM)
   3. Call for member comments: None (7:00 PM)
-  4. Approve previous meeting agenda (7:xx PM, Hillary moved, Randall seconded)
+  4. Approve previous meeting agenda (7:01 PM, Hillary moved, Randall seconded)
   5. Financial report (7:02 PM, nothing new to report)
   6. Old business (7:02 PM)
       * Fundraising event committee business (Randall will lead a committee meeting following the main one)
       * Postcard annual report (7:03 PM, Brad submitted it)
   8. New business (7:03 PM)
-  9. Call for member comments (7:xx PM)
+  9. Call for member comments (7:04 PM)
       * Discussed reducing meeting cadence to quarterly and doing more communication via email and such
   11. Adjourn (7:06 PM. Randall called, Hillary seconded)
