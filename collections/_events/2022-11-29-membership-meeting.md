@@ -40,7 +40,8 @@ The monthly membership meeting of Lower Barriers.
   4. Previous meeting agenda
   5. Financial report
   6. Old business
-  7. New business
+      * Fundraising committee
+  8. New business
   9. Call for member comments
   10. Adjourn
 
@@ -57,12 +58,14 @@ _Lower Barriers membership meeting_
 
 **Members/guest attending**: (none)
 
-  1. Call to order (7:00 PM by Randall)
-  2. Roll call: Just us (7:xx PM)
-  3. Call for member comments: None (7:xx PM)
-  4. Approve previous meeting agenda (7:xx PM, x moved, x seconded)
-  5. Financial report (7:xx PM, nothing new to report)
-  6. Old business
-  7. New business (7:xx PM)
-  8. Call for member comments (7:xx PM)
-  9. Adjourn (7:xx PM. Randall called)
+  1. Call to order (7:01 PM by Randall)
+  2. Roll call: Just us (7:02 PM)
+  3. Call for member comments: None (7:02 PM)
+  4. Approve previous meeting agenda (7:03 PM, Hillary moved, Randall seconded)
+  5. Financial report (7:03 PM, nothing new to report)
+  6. Old business (7:04 PM)
+      * Fundraising committee -- Randall brought up the idea of a gofundme, which led to unstructured discussion of patreon as a possibility for member management
+  8. New business (7:09 PM)
+      * Randall brought up managing the social media properties, along with our new Patreon setup. Brad will follow up to grant him access
+  10. Call for member comments (7:10 PM)
+  11. Adjourn (7:12 PM. Randall called, Hillary seconds)
